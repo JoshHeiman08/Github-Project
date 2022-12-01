@@ -1,4 +1,3 @@
-# **Github-MAGD 150 Projects**
 ## _MAGD 150 Lab 1_
 This project created a city skyline scene in a greyscale and explores the different shapes used in p5.js.
 ## _MAGD 150 Lab 3_
